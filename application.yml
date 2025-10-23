@@ -5,4 +5,4 @@ management:
         include:
           - '*'
 mail:
-  integracao: 'OCI'
+  integracao: 'AWS'
